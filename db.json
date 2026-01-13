@@ -81,6 +81,69 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "0a46",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2eeb",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4244",
+      "name": "projeto teste",
+      "budget": "12",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "cc45",
+      "name": "assadura",
+      "budget": "9000",
+      "category": {
+        "id": "5",
+        "name": "Portabilidade"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9e7c",
+      "name": "teste5",
+      "budget": "1222",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8ef0",
+      "name": "teste56",
+      "budget": "677777777",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c1b7",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
