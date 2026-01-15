@@ -12,48 +12,28 @@
       "services": []
     },
     {
-      "id": "4786",
-      "name": "Repositoru Design",
-      "budget": "9000000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "8741",
-      "name": "Geek Comics",
-      "budget": "10000",
+      "id": "c92d",
+      "name": "Repositoru Devs",
+      "budget": "90000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "3a41",
-      "name": "teste",
-      "budget": "0",
-      "category": {
-        "id": "5",
-        "name": "Portabilidade"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "0acf",
-      "name": "Vinicius",
-      "budget": "0.90",
-      "category": {
-        "id": "1",
-        "name": "Infraestrutura"
-      },
-      "cost": 0,
-      "services": []
+      "cost": 29000,
+      "services": [
+        {
+          "name": "Contratar desenvolvedores",
+          "cost": "10000",
+          "description": "Contratar desenvolvedores para a página",
+          "id": "0cafd125-ec1a-400b-b09e-6729cad36b5a"
+        },
+        {
+          "name": "teste",
+          "cost": "19000",
+          "description": "Desc legal",
+          "id": "357fa924-b5ff-4e9f-82cb-355e711fb81f"
+        }
+      ]
     }
   ],
   "categories": [
